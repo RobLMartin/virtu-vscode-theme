@@ -1,5 +1,7 @@
 # virtu-vscode-theme README
 
+Virtu VSCode Color Theme
+
 ## Publish locally and install
 
 1. `npm install --global vsce`
