@@ -1,0 +1,21 @@
+{
+  "name": "virtu-vscode-theme",
+  "displayName": "Virtu VSCode Theme",
+  "description": "Color theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Virtu VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Virtu VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
