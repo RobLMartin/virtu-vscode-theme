@@ -510,7 +510,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#c4c4c4"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#3c3c5a"
+        "foreground": "#545492"
       }
     },
     {
@@ -1609,7 +1609,7 @@
       "name": "heading 6, number",
       "scope": ["invalid.xi"],
       "settings": {
-        "foreground": "#c4c4c4"
+        "foreground": "#84baea"
       }
     },
     {
@@ -1849,8 +1849,8 @@
     "editorIndentGuide.background": "#191926",
     "editorIndentGuide.activeBackground": "#3c3c5a",
     "editorRuler.foreground": "#ffffff0d",
-    "editorBracketMatch.background": "#acacff",
-    "editorBracketMatch.border": "#acacff",
+    "editorBracketMatch.background": "#3c3c5a",
+    "editorBracketMatch.border": "#3c3c5a",
     "editor.foldBackground": "#2525254d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#8484844d",
