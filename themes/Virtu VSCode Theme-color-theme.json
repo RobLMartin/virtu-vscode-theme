@@ -1769,7 +1769,7 @@
     "list.inactiveSelectionBackground": "#19192d",
     "list.inactiveSelectionForeground": "#999999",
     "list.hoverBackground": "#19192d",
-    "list.hoverForeground": "#19192d",
+    "list.hoverForeground": "#acacff",
     "list.activeSelectionBackground": "#19192d",
     "list.activeSelectionForeground": "#c4c4c4",
     "tree.indentGuidesStroke": "#19192d",
