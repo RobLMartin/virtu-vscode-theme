@@ -2,7 +2,7 @@
   "name": "virtu-vscode-theme",
   "displayName": "Virtu VSCode Theme",
   "description": "Color theme for vscode",
-  "version": "0.1.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.73.0"
   },
